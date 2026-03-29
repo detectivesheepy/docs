@@ -9,28 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Docs Home",
-          "icon": "book-open-cover",
-          "color": {
-            "light": "#0067ff",
-            "dark": "#0067ff"
-          },
-          "href": "https://koda-ece5aa7f.mintlify.app"
-        },
-        {
-          "anchor": "Use KODA",
-          "icon": "newspaper",
-          "color": {
-            "light": "#0067ff",
-            "dark": "#0067ff"
-          },
-          "href": "https://playkoda.vercel.app"
-        }
-      ]
-    },
     "tabs": [
       {
         "tab": "Guides",
